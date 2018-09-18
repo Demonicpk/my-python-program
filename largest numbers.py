@@ -1,0 +1,9 @@
+a=1
+b=2
+c=3
+if(a>b):
+	print("1")
+elif(b>c):
+	print("2")
+else:
+	print("3")
